@@ -8,6 +8,8 @@ Design of The Domain Specific Languages
 2. [Front-end React Repository](https://github.com/Darzu-Catalin/NEKTAR_FE)
 3. [iOS Application](https://github.com/AlexDandy77/NEKTAR-Application)
 4. [Overleaf Report](https://ru.overleaf.com/read/qnqkspbcxrkf#dff4d0)
+5. [iOS Application on App Store](https://example.com)
+6. [Web IDE website](https://example.com)
 
 ## The Team:
 The project titled "NEKTAR - Visualizing the Networks with Augmented Reality" was developed by students Alexei Pavlovschii, Andrei Bobeica, Alexandru Bujor, Cătălin Dârzu, and Mihai Mustea from the Technical University of Moldova.
